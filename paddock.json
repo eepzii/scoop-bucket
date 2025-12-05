@@ -11,5 +11,5 @@
     },
     "homepage": "https://github.com/eepzii/paddock",
     "license": "MIT",
-    "description": "Short description of your tool"
+    "description": "Paddock is a fast, secure and cross-platform cli tool for automating F1 TV subscription token retrieval."
 }
