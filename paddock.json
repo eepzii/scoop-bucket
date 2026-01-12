@@ -1,12 +1,12 @@
 {
-    "version": "0.2.1",
+    "version": "0.2.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/eepzii/paddock/releases/download/v0.2.1/paddock_Windows_x86_64.zip",
+            "url": "https://github.com/eepzii/paddock/releases/download/v0.2.2/paddock_Windows_x86_64.zip",
             "bin": [
                 "paddock.exe"
             ],
-            "hash": "23b82186823d12981a03ff19a1fdde1f8ea1a1956f0e96b772ea178fee73da1e"
+            "hash": "34dd7345fb600b1c9b9fdec06f226478583eccab0dd189a44baefd9b72f91ffc"
         }
     },
     "homepage": "https://github.com/eepzii/paddock",
